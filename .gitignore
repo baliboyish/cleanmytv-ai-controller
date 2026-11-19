@@ -1,0 +1,21 @@
+# cmtv local state — never commit
+.cmtv-state/
+.cmtv-presets/
+.cmtv-assets/
+cmtv-state/
+snapshots/
+stack.json
+mock-tv.json
+mock-tv-state.json
+
+# python
+__pycache__/
+*.pyc
+
+# screenshots and captures
+*.png
+*.xml
+
+# editor / env
+.env
+*.swp

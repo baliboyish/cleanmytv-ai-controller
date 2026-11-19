@@ -1,0 +1,5 @@
+# cmtv's only dependency: image conversion (wallpaper tool and
+# slideshow uploads). The core CLI runs on the standard library
+# alone and stops those two commands with a clear message when
+# Pillow is missing.
+Pillow>=10
